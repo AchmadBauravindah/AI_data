@@ -1,0 +1,6 @@
+Jenis Kelamin	P= 1	L =0	
+Foto Toraks	Positif = 1	Negatif = 0	
+Status HIV	Positif = 1	Negatif = 0	
+Riwayat Diabetes	Ya = 1	Tidak = 0	
+Hasil TCM	Rif resisten =0	Rif sensitif = 1	Negatif = 2
+Lokasi Anatomi	Paru = 0	Ektra Paru = 1	
