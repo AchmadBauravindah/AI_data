@@ -1,199 +1,47 @@
-The Quran (/kʊrˈɑːn/, kuurr-AHN;[i] Arabic: القرآن al-Qurʾān [alqurˈʔaːn],[ii] 'the recitation'), also romanized Qur'an or Koran,[iii] is the central religious text of Islam, believed by Muslims to be a revelation from God.[11] It is organized in 114 chapters (pl.: سور suwar, sing.: سورة sūrah), which consist of verses (pl.: آيات ʾāyāt, sing.: آية ʾāyah, cons.: ʾāyat). In addition to its religious significance, it is widely regarded as the finest work in Arabic literature,[12][13][14] and has significantly influenced the Arabic language.
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
 
-Muslims believe that the Quran was orally revealed by God to the final prophet, Muhammad, through the archangel Gabriel[15][16] incrementally over a period of some 23 years, beginning in the month of Ramadan,[17] when Muhammad was 40; and concluding in 632, the year of his death.[11][18][19] Muslims regard the Quran as Muhammad's most important miracle; a proof of his prophethood;[20] and the culmination of a series of divine messages starting with those revealed to Adam, including the Torah, the Psalms and the Gospel. The word Quran occurs some 70 times in the text itself, and other names and words are also said to refer to the Quran.[21]
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyse actual phenomena" with data.[3] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.[4] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[5][6] A data scientist is someone who creates programming code and combines it with statistical knowledge to create insights from data.[7]
 
-The Quran is thought by Muslims to be not simply divinely inspired, but the literal word of God.[22] Muhammad did not write it as he did not know how to write. According to tradition, several of Muhammad's companions served as scribes, recording the revelations.[23] Shortly after the prophet's death, the Quran was compiled by the companions, who had written down or memorized parts of it.[24] Caliph Uthman established a standard version, now known as the Uthmanic codex, which is generally considered the archetype of the Quran known today. There are, however, variant readings, with mostly minor differences in meaning.[23]
-
-The Quran assumes familiarity with major narratives recounted in the Biblical and apocryphal scriptures. It summarizes some, dwells at length on others and, in some cases, presents alternative accounts and interpretations of events.[25][26] The Quran describes itself as a book of guidance for mankind (2:185). It sometimes offers detailed accounts of specific historical events, and it often emphasizes the moral significance of an event over its narrative sequence.[27] Supplementing the Quran with explanations for some cryptic Quranic narratives, and rulings that also provide the basis for Islamic law in most denominations of Islam,[28][iv] are hadiths—oral and written traditions believed to describe words and actions of Muhammad.[v][28] During prayers, the Quran is recited only in Arabic.[29]
-
-Someone who has memorized the entire Quran is called a memorizer. A verse is sometimes recited with a special kind of elocution reserved for this purpose, called tajwid. During the month of Ramadan, Muslims typically complete the recitation of the whole Quran during tarawih prayers. In order to extrapolate the meaning of a particular Quranic verse, Muslims rely on exegesis, or commentary rather than a direct translation of the text.[30]
-
-Quran
-Quran calligraphy
-History
-Wahy First revelationAsbab al-Nuzul
-Historicity
-Manuscripts
-Samarkand Kufic QuranSanaa manuscriptTopkapi manuscriptBirmingham manuscript
-Divisions
-Surah ListMeccanMedinan
-ĀyahJuz'Muqatta'at
-Content
-ProphetsWomenAnimals
-LegendsMiraclesParables
-ScienceEschatologyGod
-Reading
-QāriʾHifz
-TajwidTarteelAhruf
-Translations
-List EnglishAhmadiyya
-Exegesis
-ListHermeneuticsEsotericismAbrogation
-Biblical parallels
-Related persons Mentioned by name
-Characteristics
-I'jazInerrancy
-Related
-CriticismQuran and SunnahQuranismShi’a view
-CategoryIslam portal
-vte
 
 Contents
-1	Etymology and meaning
-2	History
-2.1	Prophetic era
-2.2	Compilation and preservation
-3	Significance in Islam
-3.1	Inimitability
-3.2	In worship
-3.3	In Islamic art
-4	Text and arrangement
-5	Contents
-5.1	Monotheism
-5.2	Eschatology
-5.3	Prophets
-5.4	Ethico-religious concepts
-5.5	Encouragement for the sciences
-6	Literary style
-7	Interpretation
-7.1	Esoteric interpretation
-7.1.1	History of Sufi commentaries
-7.2	Levels of meaning
-7.3	Reappropriation
-8	Translations
-9	Recitation
-9.1	Rules of recitation
-9.2	Variant readings
-10	Writing and printing
-10.1	Writing
-10.2	Printing
-11	Criticism
-12	Relationship with other literature
-12.1	The Bible
-12.2	Arab writing
-13	See also
-14	Notes
-15	References
-15.1	Citations
-15.2	Bibliography
-16	Further reading
-16.1	Introductory texts
-16.2	Traditional Quranic commentaries (tafsir)
-16.3	Topical studies
-16.4	Literary criticism
-16.5	Encyclopedias
-16.6	Academic journals
-17	External links
-17.1	Reference material
-17.2	Manuscripts
-17.3	Quran browsers and translation
-Etymology and meaning
-The word qurʼān appears about 70 times in the Quran itself, assuming various meanings. It is a verbal noun (maṣdar) of the Arabic verb qaraʼa (قرأ) meaning 'he read' or 'he recited'. The Syriac equivalent is qeryānā (ܩܪܝܢܐ), which refers to 'scripture reading' or 'lesson'.[31] While some Western scholars consider the word to be derived from the Syriac, the majority of Muslim authorities hold the origin of the word is qaraʼa itself.[11] Regardless, it had become an Arabic term by Muhammad's lifetime.[11] An important meaning of the word is the 'act of reciting', as reflected in an early Quranic passage: "It is for Us to collect it and to recite it (qurʼānahu)."[32]
+1	Foundations
+1.1	Relationship to statistics
+2	Etymology
+2.1	Early usage
+2.2	Modern usage
+3	Technologies and techniques
+4	See also
+5	References
+Foundations
+Data science is an interdisciplinary field focused on extracting knowledge from data sets, which are typically large (see big data), and applying the knowledge and actionable insights from data to solve problems in a wide range of application domains.[8] The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, data visualization, information visualization, data sonification, data integration, graphic design, complex systems, communication and business.[9][10] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human–computer interaction: users should be able to intuitively control and explore data.[11][12] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[13]
 
-In other verses, the word refers to 'an individual passage recited [by Muhammad]'. Its liturgical context is seen in a number of passages, for example: "So when al-qurʼān is recited, listen to it and keep silent."[33] The word may also assume the meaning of a codified scripture when mentioned with other scriptures such as the Torah and Gospel.[34]
+Relationship to statistics
+Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[14] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[15] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g. images) and emphasizes prediction and action.[16] Andrew Gelman of Columbia University has described statistics as a nonessential part of data science.[17] Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing, and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data-science program. He describes data science as an applied field growing out of traditional statistics.[18] In summary, data science can be therefore described as an applied branch of statistics.
 
-The term also has closely related synonyms that are employed throughout the Quran. Each synonym possesses its own distinct meaning, but its use may converge with that of qurʼān in certain contexts. Such terms include kitāb ('book'), āyah ('sign'), and sūrah ('scripture'); the latter two terms also denote units of revelation. In the large majority of contexts, usually with a definite article (al-), the word is referred to as the waḥy ('revelation'), that which has been "sent down" (tanzīl) at intervals.[35][36] Other related words include: dhikr ('remembrance'), used to refer to the Quran in the sense of a reminder and warning; and ḥikmah ('wisdom'), sometimes referring to the revelation or part of it.[11][vi]
+Etymology
+Early usage
+In 1962, John Tukey described a field he called "data analysis", which resembles modern data science.[18] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C. F. Jeff Wu used the term "data science" for the first time as an alternative name for statistics.[19] Later, attendees at a 1992 statistics symposium at the University of Montpellier II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[20][21]
 
-The Quran describes itself as 'the discernment' (al-furqān), 'the mother book' (umm al-kitāb), 'the guide' (huda), 'the wisdom' (hikmah), 'the remembrance' (dhikr), and 'the revelation' (tanzīl; 'something sent down', signifying the descent of an object from a higher place to lower place).[37] Another term is al-kitāb ('The Book'), though it is also used in the Arabic language for other scriptures, such as the Torah and the Gospels. The term mus'haf ('written work') is often used to refer to particular Quranic manuscripts but is also used in the Quran to identify earlier revealed books.[11]
+The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name for computer science.[22] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[22] However, the definition was still in flux. After the 1985 lecture in the Chinese Academy of Sciences in Beijing, in 1997 C. F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting, or limited to describing data.[23] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[21]
 
-History
-Main article: History of the Quran
-Prophetic era
-Islamic tradition relates that Muhammad received his first revelation in the Cave of Hira during one of his isolated retreats to the mountains. Thereafter, he received revelations over a period of 23 years. According to hadith and Muslim history, after Muhammad immigrated to Medina and formed an independent Muslim community, he ordered many of his companions to recite the Quran and to learn and teach the laws, which were revealed daily. It is related that some of the Quraysh who were taken prisoners at the Battle of Badr regained their freedom after they had taught some of the Muslims the simple writing of the time. Thus a group of Muslims gradually became literate. As it was initially spoken, the Quran was recorded on tablets, bones, and the wide, flat ends of date palm fronds. Most suras were in use amongst early Muslims since they are mentioned in numerous sayings by both Sunni and Shia sources, relating Muhammad's use of the Quran as a call to Islam, the making of prayer and the manner of recitation. However, the Quran did not exist in book form at the time of Muhammad's death in 632.[38][39][40] There is agreement among scholars that Muhammad himself did not write down the revelation.[41]
+During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included "knowledge discovery" and "data mining".[24][22]
 
-Sahih al-Bukhari narrates Muhammad describing the revelations as, "Sometimes it is (revealed) like the ringing of a bell" and Aisha reported, "I saw the Prophet being inspired Divinely on a very cold day and noticed the sweat dropping from his forehead (as the Inspiration was over)."[vii] Muhammad's first revelation, according to the Quran, was accompanied with a vision. The agent of revelation is mentioned as the "one mighty in power,"[43] the one who "grew clear to view when he was on the uppermost horizon. Then he drew nigh and came down till he was (distant) two bows' length or even nearer."[39][44] The Islamic studies scholar Welch states in the Encyclopaedia of Islam that he believes the graphic descriptions of Muhammad's condition at these moments may be regarded as genuine, because he was severely disturbed after these revelations. According to Welch, these seizures would have been seen by those around him as convincing evidence for the superhuman origin of Muhammad's inspirations. However, Muhammad's critics accused him of being a possessed man, a soothsayer or a magician since his experiences were similar to those claimed by such figures well known in ancient Arabia. Welch additionally states that it remains uncertain whether these experiences occurred before or after Muhammad's initial claim of prophethood.[45]
+Modern usage
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[25] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[24] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[24] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[26]
 
+The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[27] Though it was used by the National Science Board in their 2005 report "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century", it referred broadly to any key role in managing a digital data collection.[28]
 
-Muhammad's first revelation, Surah Al-Alaq, later placed 96th in the Qur'anic regulations, in current writing style
-The Quran describes Muhammad as "ummi,"[46] which is traditionally interpreted as 'illiterate', but the meaning is rather more complex. Medieval commentators such as Al-Tabari maintained that the term induced two meanings: first, the inability to read or write in general; second, the inexperience or ignorance of the previous books or scriptures (but they gave priority to the first meaning). Muhammad's illiteracy was taken as a sign of the genuineness of his prophethood. For example, according to Fakhr al-Din al-Razi, if Muhammad had mastered writing and reading he possibly would have been suspected of having studied the books of the ancestors. Some scholars such as Watt prefer the second meaning of ummi—they take it to indicate unfamiliarity with earlier sacred texts.[39][47]
+There is still no consensus on the definition of data science, and it is considered by some to be a buzzword.[29] Big data is a related marketing term.[30] Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.[31]
 
-The final verse of the Quran was revealed on the 18th of the Islamic month of Dhu al-Hijjah in the year 10 A.H., a date that roughly corresponds to February or March 632. The verse was revealed after the Prophet finished delivering his sermon at Ghadir Khumm.
+Technologies and techniques
+There is a variety of different technologies and techniques that are used for data science, depending on the application.
 
-Compilation and preservation
-See also: Sanaa manuscript and Birmingham Quran manuscript
-Following Muhammad's death in 632, a number of his companions who knew the Quran by heart were killed in the Battle of Yamama by Musaylimah. The first caliph, Abu Bakr (d. 634), subsequently decided to collect the book in one volume so that it could be preserved. Zayd ibn Thabit (d. 655) was the person to collect the Quran since "he used to write the Divine Inspiration for Allah's Apostle". Thus, a group of scribes, most importantly Zayd, collected the verses and produced a hand-written manuscript of the complete book. The manuscript according to Zayd remained with Abu Bakr until he died. Zayd's reaction to the task and the difficulties in collecting the Quranic material from parchments, palm-leaf stalks, thin stones (collectively known as suhuf)[48] and from men who knew it by heart is recorded in earlier narratives. After Abu Bakr, in 644, Hafsa bint Umar, Muhammad's widow, was entrusted with the manuscript until the third caliph, Uthman ibn Affan, requested the standard copy from Hafsa bint Umar in about 650.[49]
-
-In about 650, the third Caliph Uthman ibn Affan (d. 656) began noticing slight differences in pronunciation of the Quran as Islam expanded beyond the Arabian Peninsula into Persia, the Levant, and North Africa. In order to preserve the sanctity of the text, he ordered a committee headed by Zayd to use Abu Bakr's copy and prepare a standard copy of the Quran.[38][50] Thus, within 20 years of Muhammad's death, the Quran was committed to written form. That text became the model from which copies were made and promulgated throughout the urban centers of the Muslim world, and other versions are believed to have been destroyed.[38][51][52][53] The present form of the Quran text is accepted by Muslim scholars to be the original version compiled by Abu Bakr.[39][40][viii]
-
-
-Quran − in Mashhad, Iran − said to be written by Ali
-According to Shia, Ali ibn Abi Talib (d. 661) compiled a complete version of the Quran shortly after Muhammad's death. The order of this text differed from that gathered later during Uthman's era in that this version had been collected in chronological order. Despite this, he made no objection against the standardized Quran and accepted the Quran in circulation. Other personal copies of the Quran might have existed including Ibn Mas'ud's and Ubay ibn Ka'b's codex, none of which exist today.[11][38][55]
-
-The Quran most likely existed in scattered written form during Muhammad's lifetime. Several sources indicate that during Muhammad's lifetime a large number of his companions had memorized the revelations. Early commentaries and Islamic historical sources support the above-mentioned understanding of the Quran's early development.[24] University of Chicago professor Fred Donner states that:[56]
-
-[T]here was a very early attempt to establish a uniform consonantal text of the Qurʾān from what was probably a wider and more varied group of related texts in early transmission.… After the creation of this standardized canonical text, earlier authoritative texts were suppressed, and all extant manuscripts—despite their numerous variants—seem to date to a time after this standard consonantal text was established.
-
-Although most variant readings of the text of the Quran have ceased to be transmitted, some still are.[57][58] There has been no critical text produced on which a scholarly reconstruction of the Quranic text could be based.[ix] Historically, controversy over the Quran's content has rarely become an issue, although debates continue on the subject.[60][x]
-
-
-The right page of the Stanford '07 binary manuscript. The upper layer is verses 265-271 of the surah Bakara. The double-layer reveals the additions made on the first text of the Qur'an and the differences with today's Qur'an.
-In 1972, in a mosque in the city of Sana'a, Yemen, manuscripts were discovered that were later proved to be the most ancient Quranic text known to exist at the time. The Sana'a manuscripts contain palimpsests, a manuscript page from which the text has been washed off to make the parchment reusable again—a practice which was common in ancient times due to the scarcity of writing material. However, the faint washed-off underlying text (scriptio inferior) is still barely visible and believed to be "pre-Uthmanic" Quranic content, while the text written on top (scriptio superior) is believed to belong to Uthmanic times.[61] Studies using radiocarbon dating indicate that the parchments are dated to the period before 671 CE with a 99 percent probability.[62][63] The German scholar Gerd R. Puin has been investigating these Quran fragments for years. His research team made 35,000 microfilm photographs of the manuscripts, which he dated to the early part of the 8th century. Puin has not published the entirety of his work, but noted unconventional verse orderings, minor textual variations, and rare styles of orthography. He also suggested that some of the parchments were palimpsests which had been reused. Puin believed that this implied an evolving text as opposed to a fixed one.[64]
-
-In 2015, fragments of a very early Quran, dating back to 1370 years earlier, were discovered in the library of the University of Birmingham, England. According to the tests carried out by the Oxford University Radiocarbon Accelerator Unit, "with a probability of more than 95%, the parchment was from between 568 and 645". The manuscript is written in Hijazi script, an early form of written Arabic.[65] This is possibly the earliest extant exemplar of the Quran, but as the tests allow a range of possible dates, it cannot be said with certainty which of the existing versions is the oldest.[65] Saudi scholar Saud al-Sarhan has expressed doubt over the age of the fragments as they contain dots and chapter separators that are believed to have originated later.[66] However Joseph E. B. Lumbard of Brandeis University has written in the Huffington Post in support of the dates proposed by the Birmingham scholars. Lumbard notes that the discovery of a Quranic text that may be confirmed by radiocarbon dating as having been written in the first decades of the Islamic era, while presenting a text substantially in conformity with that traditionally accepted, reinforces a growing academic consensus that many Western skeptical and 'revisionist' theories of Quranic origins are now untenable in the light of empirical findings—whereas, on the other hand, counterpart accounts of Quranic origins within classical Islamic traditions stand up well in the light of ongoing scientific discoveries.[67]
-
-Significance in Islam
-Part of a series on
-Islam
-IslamSymbol1.svg
-Beliefs
-Practices
-TextsFoundations
-QuranSunnah (Hadith, Sirah)
-Tafsir (exegesis)Aqidah (creed)
-Fiqh (jurisprudence)Sharia (law)
-History
-Culture and society
-Related topics
-Allah-green.svg Islam portal
-vte
-Muslims believe the Quran to be God's final revelation to humanity, a work of divine guidance revealed to Muhammad through the angel Gabriel.[18][68]
-
-Revered by pious Muslims as "the holy of holies,"[69] whose sound moves some to "tears and ecstasy",[70] it is the physical symbol of the faith, the text often used as a charm on occasions of birth, death, marriage.[citation needed] Consequently,
-
-It must never rest beneath other books, but always on top of them, one must never drink or smoke when it is being read aloud, and it must be listened to in silence. It is a talisman against disease and disaster.[69][71]
-
-Traditionally great emphasis was put on children memorizing the 6,200+ verses of the Quran, those succeeding being honored with the title Hafiz. "Millions and millions" of Muslims "refer to the Koran daily to explain their actions and to justify their aspirations,"[xi] and in recent years many consider it the source of scientific knowledge.[73][74]
-
-Revelation in Islamic and Quranic contexts means the act of God addressing an individual, conveying a message for a greater number of recipients. The process by which the divine message comes to the heart of a messenger of God is tanzil ('to send down') or nuzūl ('to come down'). As the Quran says, "With the truth we (God) have sent it down and with the truth it has come down."[75]
-
-The Quran frequently asserts in its text that it is divinely ordained. Some verses in the Quran seem to imply that even those who do not speak Arabic would understand the Quran if it were recited to them.[76] The Quran refers to a written pre-text, "the preserved tablet," that records God's speech even before it was sent down.[77][78]
-
-Muslims believe that the present wording of the Quran corresponds to that revealed to Muhammad, and according to their interpretation of Quran 15:9, it is protected from corruption ("Indeed, it is We who sent down the Quran and indeed, We will be its guardian.").[79] Muslims consider the Quran to be a guide, a sign of the prophethood of Muhammad and the truth of the religion.
-
-The Shīa believe that the Quran was gathered and compiled by Muhammad during his lifetime, rather than being compiled by Uthman ibn Affan. There are other differences in the way Shias interpret the text.[80] Muslims do not agree over whether the Quran was created by God or is eternal and "uncreated." Sunnis (who make up about 85–90% of Muslims) hold that the Quran is uncreated—a doctrine that has been unchallenged among them for many centuries. Shia Twelvers and Zaydi, and the Kharijites—believe the Quran was created.[81] Sufi philosophers view the question as artificial or wrongly framed.[82][need quotation to verify]
-
-Inimitability
-Main article: I'jaz
-Inimitability of the Quran (or "I'jaz") is the belief that no human speech can match the Quran in its content and form. The Quran is considered an inimitable miracle by Muslims, effective until the Day of Resurrection—and, thereby, the central proof granted to Muhammad in authentication of his prophetic status. The concept of inimitability originates in the Quran where in five different verses opponents are challenged to produce something like the Quran: "If men and jinn banded together to produce the like of this Quran they would never produce its like not though they backed one another."[83] From the ninth century, numerous works appeared which studied the Quran and examined its style and content. Medieval Muslim scholars including al-Jurjani (d. 1078) and al-Baqillani (d. 1013) have written treatises on the subject, discussed its various aspects, and used linguistic approaches to study the Quran. Others argue that the Quran contains noble ideas, has inner meanings, maintained its freshness through the ages and has caused great transformations at the individual level and in history. Some scholars state that the Quran contains scientific information that agrees with modern science. The doctrine of the miraculousness of the Quran is further emphasized by Muhammad's illiteracy since the unlettered prophet could not have been suspected of composing the Quran.[55][84]
-
-In worship
-See also: Salah
-
-While standing in prayers, worshipers recite the first chapter of the Quran, al-Fatiha, followed by any other section.
-The first surah of the Quran is repeated in daily prayers and on other occasions. This surah, which consists of seven verses, is the most often recited surah of the Quran:[11]
-
-بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
-ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-مَٰلِكِ يَوْمِ ٱلدِّينِ
-إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
-ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
-صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ لا٥ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
-
-In the Name of Allah the Entirely Merciful, the Especially Merciful.
-[All] praise is [due] to Allah, Lord of the worlds —
-The Entirely Merciful, the Especially Merciful,
-Sovereign of the Day of Recompense.
-It is You we worship and You we ask for help
-Guide us to the straight path—
-The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.
-
-—Quran 1:1–7	—Sahih International English translation
-Other sections of the Quran of choice are also read in daily prayers.
-
-Respect for the written text of the Quran is an important element of religious faith by many Muslims, and the Quran is treated with reverence. Based on tradition and a literal interpretation of Quran 56:79 ("none shall touch but those who are clean"), some Muslims believe that they must perform a ritual cleansing with water (wudu or ghusl) before touching a copy of the Quran, although this view is not universal.[11] Worn-out copies of the Quran are wrapped in a cloth and stored indefinitely in a safe place, buried in a mosque or a Muslim cemetery, or burned and the ashes buried or scattered over water.[85]
-
-In Islam, most intellectual disciplines, including Islamic theology, philosophy, mysticism and jurisprudence, have been concerned with the Quran or have their foundation in its teachings.[11] Muslims believe that the preaching or reading of the Quran is rewarded with divine rewards variously called ajr, thawab, or hasanat.[86]
-
-In Islamic art
-The Quran also inspired Islamic arts and specifically the so-called Quranic arts of calligraphy and illumination.[11] The Quran is never decorated with figurative images, but many Qurans have been highly decorated with decorative patterns in the margins of the page, or between the lines or at the start of suras. Islamic verses appear in many other media, on buildings and on objects of all sizes, such as mosque lamps, metal work, pottery and single pages of calligraphy for muraqqas or albums.
+Further information: Statistics § Methods
+Linear regression
+Logistic regression
+Decision trees are used as prediction models for classification and data fitting. The decision tree structure can be used to generate rules able to classify or predict target/class/label variable based on the observation attributes.
+Support-vector machine (SVM)
+Cluster analysis is a technique used to group data together.
+Dimensionality reduction is used to reduce the complexity of data computation so that it can be performed more quickly.
+Machine learning is a technique used to perform tasks by inferencing patterns from data.
+Naive Bayes classifiers are used to classify by applying the Bayes' theorem. They are mainly used in datasets with large amounts of data and can aptly generate accurate results.
