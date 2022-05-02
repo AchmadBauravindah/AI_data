@@ -1,66 +1,199 @@
-A hacker is a person skilled in information technology who uses their technical knowledge to achieve a goal or overcome an obstacle, within a computerized system by non-standard means. Though the term hacker has become associated in popular culture with a security hacker – someone who utilizes their technical know-how of bugs or exploits to break into computer systems and access data which would otherwise be inaccessible to them – hacking can also be utilized by legitimate figures in legal situations. For example, law enforcement agencies sometimes use hacking techniques in order to collect evidence on criminals and other malicious actors. This could include using anonymity tools (such as a VPN, or the dark web) to mask their identities online, posing as criminals themselves.[1][2] Likewise, covert world agencies can employ hacking techniques in the legal conduct of their work. On the other hand, hacking and cyber-attacks are used extra- and illegally by law enforcement and security agencies (conducting warrantless activities), and employed by State actors as a weapon of both legal and illegal warfare.
+The Quran (/kʊrˈɑːn/, kuurr-AHN;[i] Arabic: القرآن al-Qurʾān [alqurˈʔaːn],[ii] 'the recitation'), also romanized Qur'an or Koran,[iii] is the central religious text of Islam, believed by Muslims to be a revelation from God.[11] It is organized in 114 chapters (pl.: سور suwar, sing.: سورة sūrah), which consist of verses (pl.: آيات ʾāyāt, sing.: آية ʾāyah, cons.: ʾāyat). In addition to its religious significance, it is widely regarded as the finest work in Arabic literature,[12][13][14] and has significantly influenced the Arabic language.
 
-Firstly, hacker is simply referring to advanced computer technology enthusiast (both hardware and software) and adherent of programming subculture; see hacker culture.[3]
-Also, hacker is someone who can subvert computer security. If doing so for malicious purposes, the person can also be called a cracker or a black hat whose in charge of cyber-crime.[4]
-Today, mainstream usage of "hacker" mostly refers to computer criminals, due to the mass media usage of the word since the 1990s.[5] This includes what hacker slang calls "script kiddies", people breaking into computers using programs written by others, with very little knowledge about the way they work. This usage has become so predominant that the general public is largely unaware that different meanings exist.[6] Even though there are bright sides in terms of "hacker", such vague image that the term possess have been questioning the morality and ethnicity of all the hackers.[7] While the self-designation of hobbyists as hackers is generally acknowledged and accepted by computer security hackers, people from the programming subculture consider the computer intrusion related usage incorrect, and emphasize the difference between the two by calling security breakers "crackers" (analogous to a safecracker).
+Muslims believe that the Quran was orally revealed by God to the final prophet, Muhammad, through the archangel Gabriel[15][16] incrementally over a period of some 23 years, beginning in the month of Ramadan,[17] when Muhammad was 40; and concluding in 632, the year of his death.[11][18][19] Muslims regard the Quran as Muhammad's most important miracle; a proof of his prophethood;[20] and the culmination of a series of divine messages starting with those revealed to Adam, including the Torah, the Psalms and the Gospel. The word Quran occurs some 70 times in the text itself, and other names and words are also said to refer to the Quran.[21]
 
-The controversy is usually based on the assertion that the term originally meant someone messing about with something in a positive sense, that is, using playful cleverness to achieve a goal. But then, it is supposed, the meaning of the term shifted over the decades and came to refer to computer criminals.[8]
+The Quran is thought by Muslims to be not simply divinely inspired, but the literal word of God.[22] Muhammad did not write it as he did not know how to write. According to tradition, several of Muhammad's companions served as scribes, recording the revelations.[23] Shortly after the prophet's death, the Quran was compiled by the companions, who had written down or memorized parts of it.[24] Caliph Uthman established a standard version, now known as the Uthmanic codex, which is generally considered the archetype of the Quran known today. There are, however, variant readings, with mostly minor differences in meaning.[23]
 
-As the security-related usage has spread more widely, the original meaning has become less known. In popular usage and in the media, "computer intruders" or "computer criminals" is the exclusive meaning of the word today. (For example, "An Internet 'hacker' broke through state government security systems in March.") In the computer enthusiast (Hacker Culture) community, the primary meaning is a complimentary description for a particularly brilliant programmer or technical expert. (For example, "Linus Torvalds, the creator of Linux, is considered by some to be a hacker.") A large segment of the technical community insist the latter is the "correct" usage of the word (see the Jargon File definition below).
+The Quran assumes familiarity with major narratives recounted in the Biblical and apocryphal scriptures. It summarizes some, dwells at length on others and, in some cases, presents alternative accounts and interpretations of events.[25][26] The Quran describes itself as a book of guidance for mankind (2:185). It sometimes offers detailed accounts of specific historical events, and it often emphasizes the moral significance of an event over its narrative sequence.[27] Supplementing the Quran with explanations for some cryptic Quranic narratives, and rulings that also provide the basis for Islamic law in most denominations of Islam,[28][iv] are hadiths—oral and written traditions believed to describe words and actions of Muhammad.[v][28] During prayers, the Quran is recited only in Arabic.[29]
 
-People usually regard hackers as a lone wolfs who are on themselves for personal sake. However, "hacking" sometimes involve how corporations and government entities utilize when risk managing. In this point, trusted systems and following strategies are required in order to make profits.[9]
+Someone who has memorized the entire Quran is called a memorizer. A verse is sometimes recited with a special kind of elocution reserved for this purpose, called tajwid. During the month of Ramadan, Muslims typically complete the recitation of the whole Quran during tarawih prayers. In order to extrapolate the meaning of a particular Quranic verse, Muslims rely on exegesis, or commentary rather than a direct translation of the text.[30]
 
-Representation in mainstream media
-The mainstream media's current usage of the term may be traced back to the early 1980s. When the term, previously used only among computer enthusiasts, was introduced to wider society by the mainstream media in 1983,[10] even those in the computer community referred to computer intrusion as "hacking", although not as the exclusive definition of the word. In media representation, cyber-crime like privacy violation, surveillance and security issues are described as hacker's playgrounds.[11] In reaction to the increasing media use of the term exclusively with the criminal connotation, the computer community began to differentiate their terminology. Alternative terms such as "cracker" were coined in an effort to maintain the distinction between "hackers" within the legitimate programmer community and those performing computer break-ins. Further terms such as "black hat", "white hat" and "gray hat" developed when laws against breaking into computers came into effect, to distinguish criminal activities from those activities which were legal.
+Quran
+Quran calligraphy
+History
+Wahy First revelationAsbab al-Nuzul
+Historicity
+Manuscripts
+Samarkand Kufic QuranSanaa manuscriptTopkapi manuscriptBirmingham manuscript
+Divisions
+Surah ListMeccanMedinan
+ĀyahJuz'Muqatta'at
+Content
+ProphetsWomenAnimals
+LegendsMiraclesParables
+ScienceEschatologyGod
+Reading
+QāriʾHifz
+TajwidTarteelAhruf
+Translations
+List EnglishAhmadiyya
+Exegesis
+ListHermeneuticsEsotericismAbrogation
+Biblical parallels
+Related persons Mentioned by name
+Characteristics
+I'jazInerrancy
+Related
+CriticismQuran and SunnahQuranismShi’a view
+CategoryIslam portal
+vte
 
-Representation in network news
-However, network news use of the term consistently pertained primarily to the criminal activities, despite the attempt by the technical community to preserve and distinguish the original meaning, so today the mainstream media and general public continue to describe computer criminals, with all levels of technical sophistication, as "hackers" and do not generally make use of the word in any of its non-criminal connotations. Members of the media sometimes seem unaware of the distinction, grouping legitimate "hackers" such as Linus Torvalds and Steve Wozniak along with criminal "crackers".[12]
+Contents
+1	Etymology and meaning
+2	History
+2.1	Prophetic era
+2.2	Compilation and preservation
+3	Significance in Islam
+3.1	Inimitability
+3.2	In worship
+3.3	In Islamic art
+4	Text and arrangement
+5	Contents
+5.1	Monotheism
+5.2	Eschatology
+5.3	Prophets
+5.4	Ethico-religious concepts
+5.5	Encouragement for the sciences
+6	Literary style
+7	Interpretation
+7.1	Esoteric interpretation
+7.1.1	History of Sufi commentaries
+7.2	Levels of meaning
+7.3	Reappropriation
+8	Translations
+9	Recitation
+9.1	Rules of recitation
+9.2	Variant readings
+10	Writing and printing
+10.1	Writing
+10.2	Printing
+11	Criticism
+12	Relationship with other literature
+12.1	The Bible
+12.2	Arab writing
+13	See also
+14	Notes
+15	References
+15.1	Citations
+15.2	Bibliography
+16	Further reading
+16.1	Introductory texts
+16.2	Traditional Quranic commentaries (tafsir)
+16.3	Topical studies
+16.4	Literary criticism
+16.5	Encyclopedias
+16.6	Academic journals
+17	External links
+17.1	Reference material
+17.2	Manuscripts
+17.3	Quran browsers and translation
+Etymology and meaning
+The word qurʼān appears about 70 times in the Quran itself, assuming various meanings. It is a verbal noun (maṣdar) of the Arabic verb qaraʼa (قرأ) meaning 'he read' or 'he recited'. The Syriac equivalent is qeryānā (ܩܪܝܢܐ), which refers to 'scripture reading' or 'lesson'.[31] While some Western scholars consider the word to be derived from the Syriac, the majority of Muslim authorities hold the origin of the word is qaraʼa itself.[11] Regardless, it had become an Arabic term by Muhammad's lifetime.[11] An important meaning of the word is the 'act of reciting', as reflected in an early Quranic passage: "It is for Us to collect it and to recite it (qurʼānahu)."[32]
 
-As a result, the definition is still the subject of heated controversy. The wider dominance of the pejorative connotation is resented by many who object to the term being taken from their cultural jargon and used negatively,[13] including those who have historically preferred to self-identify as hackers. Many advocate using the more recent and nuanced alternate terms when describing criminals and others who negatively take advantage of security flaws in software and hardware. Others prefer to follow common popular usage, arguing that the positive form is confusing and unlikely to become widespread in the general public. A minority still use the term in both senses despite the controversy, leaving context to clarify (or leave ambiguous) which meaning is intended.
+In other verses, the word refers to 'an individual passage recited [by Muhammad]'. Its liturgical context is seen in a number of passages, for example: "So when al-qurʼān is recited, listen to it and keep silent."[33] The word may also assume the meaning of a codified scripture when mentioned with other scriptures such as the Torah and Gospel.[34]
 
-However, because the positive definition of hacker was widely used as the predominant form for many years before the negative definition was popularized, "hacker" can therefore be seen as a shibboleth, identifying those who use the technically-oriented sense (as opposed to the exclusively intrusion-oriented sense) as members of the computing community. On the other hand, due to the variety of industries software designers may find themselves in, many prefer not to be referred to as hackers because the word holds a negative denotation in many of those industries.
+The term also has closely related synonyms that are employed throughout the Quran. Each synonym possesses its own distinct meaning, but its use may converge with that of qurʼān in certain contexts. Such terms include kitāb ('book'), āyah ('sign'), and sūrah ('scripture'); the latter two terms also denote units of revelation. In the large majority of contexts, usually with a definite article (al-), the word is referred to as the waḥy ('revelation'), that which has been "sent down" (tanzīl) at intervals.[35][36] Other related words include: dhikr ('remembrance'), used to refer to the Quran in the sense of a reminder and warning; and ḥikmah ('wisdom'), sometimes referring to the revelation or part of it.[11][vi]
 
-A possible middle ground position has been suggested, based on the observation that "hacking" describes a collection of skills and tools which are used by hackers of both descriptions for differing reasons. The analogy is made to locksmithing, specifically picking locks, which is a skill which can be used for good or evil. The primary weakness of this analogy is the inclusion of script kiddies in the popular usage of "hacker," despite their lack of an underlying skill and knowledge base.
+The Quran describes itself as 'the discernment' (al-furqān), 'the mother book' (umm al-kitāb), 'the guide' (huda), 'the wisdom' (hikmah), 'the remembrance' (dhikr), and 'the revelation' (tanzīl; 'something sent down', signifying the descent of an object from a higher place to lower place).[37] Another term is al-kitāb ('The Book'), though it is also used in the Arabic language for other scriptures, such as the Torah and the Gospels. The term mus'haf ('written work') is often used to refer to particular Quranic manuscripts but is also used in the Quran to identify earlier revealed books.[11]
 
-Sometimes, "hacker" is simply used similarly with "geek": "A true hacker is not a group person. He's a person who loves to stay up all night, he and the machine in a love-hate relationship... They're kids who tended to be brilliant but not very interested in conventional goals It's a term of derision and also the ultimate compliment."[14]
+History
+Main article: History of the Quran
+Prophetic era
+Islamic tradition relates that Muhammad received his first revelation in the Cave of Hira during one of his isolated retreats to the mountains. Thereafter, he received revelations over a period of 23 years. According to hadith and Muslim history, after Muhammad immigrated to Medina and formed an independent Muslim community, he ordered many of his companions to recite the Quran and to learn and teach the laws, which were revealed daily. It is related that some of the Quraysh who were taken prisoners at the Battle of Badr regained their freedom after they had taught some of the Muslims the simple writing of the time. Thus a group of Muslims gradually became literate. As it was initially spoken, the Quran was recorded on tablets, bones, and the wide, flat ends of date palm fronds. Most suras were in use amongst early Muslims since they are mentioned in numerous sayings by both Sunni and Shia sources, relating Muhammad's use of the Quran as a call to Islam, the making of prayer and the manner of recitation. However, the Quran did not exist in book form at the time of Muhammad's death in 632.[38][39][40] There is agreement among scholars that Muhammad himself did not write down the revelation.[41]
 
-Fred Shapiro thinks that "the common theory that 'hacker' originally was a benign term and the malicious connotations of the word were a later perversion is untrue." He found that the malicious connotations were already present at MIT in 1963 (quoting The Tech, an MIT student newspaper), and at that time referred to unauthorized users of the telephone network,[15][16] that is, the phreaker movement that developed into the computer security hacker subculture of today.
+Sahih al-Bukhari narrates Muhammad describing the revelations as, "Sometimes it is (revealed) like the ringing of a bell" and Aisha reported, "I saw the Prophet being inspired Divinely on a very cold day and noticed the sweat dropping from his forehead (as the Inspiration was over)."[vii] Muhammad's first revelation, according to the Quran, was accompanied with a vision. The agent of revelation is mentioned as the "one mighty in power,"[43] the one who "grew clear to view when he was on the uppermost horizon. Then he drew nigh and came down till he was (distant) two bows' length or even nearer."[39][44] The Islamic studies scholar Welch states in the Encyclopaedia of Islam that he believes the graphic descriptions of Muhammad's condition at these moments may be regarded as genuine, because he was severely disturbed after these revelations. According to Welch, these seizures would have been seen by those around him as convincing evidence for the superhuman origin of Muhammad's inspirations. However, Muhammad's critics accused him of being a possessed man, a soothsayer or a magician since his experiences were similar to those claimed by such figures well known in ancient Arabia. Welch additionally states that it remains uncertain whether these experiences occurred before or after Muhammad's initial claim of prophethood.[45]
 
-Hacker culture
-Main article: Hacker culture
-Hacker culture is an idea derived from a community of enthusiast computer programmers and systems designers in the 1960s around the Massachusetts Institute of Technology's (MIT's) Tech Model Railroad Club (TMRC)[17] and the MIT Artificial Intelligence Laboratory.[18] The concept expanded to the hobbyist home computing community, focusing on hardware in the late 1970s (e.g. the Homebrew Computer Club)[19] and on software (video games,[20] software cracking, the demoscene) in the 1980s/1990s. Later, this would go on to encompass many new definitions such as art, and life hacking.
 
-Types
-Security related hacking
-Main article: Security hacker
-Security hackers are people involved with circumvention of computer security. Among security hackers, there are several types, including:
+Muhammad's first revelation, Surah Al-Alaq, later placed 96th in the Qur'anic regulations, in current writing style
+The Quran describes Muhammad as "ummi,"[46] which is traditionally interpreted as 'illiterate', but the meaning is rather more complex. Medieval commentators such as Al-Tabari maintained that the term induced two meanings: first, the inability to read or write in general; second, the inexperience or ignorance of the previous books or scriptures (but they gave priority to the first meaning). Muhammad's illiteracy was taken as a sign of the genuineness of his prophethood. For example, according to Fakhr al-Din al-Razi, if Muhammad had mastered writing and reading he possibly would have been suspected of having studied the books of the ancestors. Some scholars such as Watt prefer the second meaning of ummi—they take it to indicate unfamiliarity with earlier sacred texts.[39][47]
 
-White hat hacker
-Main article: White hat (computer security)
-White hats are hackers who work to keep data safe from other hackers by finding system vulnerabilities that can be mitigated. White hats are usually employed by the target system's owner and are typically paid (sometimes quite well) for their work. Their work is not illegal because it is done with the system owner's consent.
+The final verse of the Quran was revealed on the 18th of the Islamic month of Dhu al-Hijjah in the year 10 A.H., a date that roughly corresponds to February or March 632. The verse was revealed after the Prophet finished delivering his sermon at Ghadir Khumm.
 
-Black hat hacker
-Main article: Black hat hacking
-Black hats or crackers are hackers with malicious intentions. They often steal, exploit, and sell data, and are usually motivated by personal gain. Their work is usually illegal. A cracker is like a black hat hacker,[21] but is specifically someone who is very skilled and tries via hacking to make profits or to benefit, not just to vandalize. Crackers find exploits for system vulnerabilities and often use them to their advantage by either selling the fix to the system owner or selling the exploit to other black hat hackers, who in turn use it to steal information or gain royalties.
+Compilation and preservation
+See also: Sanaa manuscript and Birmingham Quran manuscript
+Following Muhammad's death in 632, a number of his companions who knew the Quran by heart were killed in the Battle of Yamama by Musaylimah. The first caliph, Abu Bakr (d. 634), subsequently decided to collect the book in one volume so that it could be preserved. Zayd ibn Thabit (d. 655) was the person to collect the Quran since "he used to write the Divine Inspiration for Allah's Apostle". Thus, a group of scribes, most importantly Zayd, collected the verses and produced a hand-written manuscript of the complete book. The manuscript according to Zayd remained with Abu Bakr until he died. Zayd's reaction to the task and the difficulties in collecting the Quranic material from parchments, palm-leaf stalks, thin stones (collectively known as suhuf)[48] and from men who knew it by heart is recorded in earlier narratives. After Abu Bakr, in 644, Hafsa bint Umar, Muhammad's widow, was entrusted with the manuscript until the third caliph, Uthman ibn Affan, requested the standard copy from Hafsa bint Umar in about 650.[49]
 
-Grey hat hacker
-Main article: Grey hat
-A grey hat is a computer hacker or computer security expert who may sometimes violate laws or typical ethical standards, but does not have the malicious intent typical of a black hat hacker.
+In about 650, the third Caliph Uthman ibn Affan (d. 656) began noticing slight differences in pronunciation of the Quran as Islam expanded beyond the Arabian Peninsula into Persia, the Levant, and North Africa. In order to preserve the sanctity of the text, he ordered a committee headed by Zayd to use Abu Bakr's copy and prepare a standard copy of the Quran.[38][50] Thus, within 20 years of Muhammad's death, the Quran was committed to written form. That text became the model from which copies were made and promulgated throughout the urban centers of the Muslim world, and other versions are believed to have been destroyed.[38][51][52][53] The present form of the Quran text is accepted by Muslim scholars to be the original version compiled by Abu Bakr.[39][40][viii]
 
-Motives
-Four primary motives have been proposed as possibilities for why hackers attempt to break into computers and networks. First, there is a criminal financial gain to be had when hacking systems with the specific purpose of stealing credit card numbers or manipulating banking systems. Second, many hackers thrive off of increasing their reputation within the hacker subculture and will leave their handles on websites they defaced or leave some other evidence as proof that they were involved in a specific hack. Third, corporate espionage allows companies to acquire information on products or services that can be stolen or used as leverage within the marketplace. Lastly, state-sponsored attacks provide nation states with both wartime and intelligence collection options conducted on, in, or through cyberspace.[22]
 
-Overlaps and differences
-The main basic difference between programmer subculture and computer security hacker is their mostly separate historical origin and development. However, the Jargon File reports that considerable overlap existed for the early phreaking at the beginning of the 1970s. An article from MIT's student paper The Tech used the term hacker in this context already in 1963 in its pejorative meaning for someone messing with the phone system.[15] The overlap quickly started to break when people joined in the activity who did it in a less responsible way.[23] This was the case after the publication of an article exposing the activities of Draper and Engressia.
+Quran − in Mashhad, Iran − said to be written by Ali
+According to Shia, Ali ibn Abi Talib (d. 661) compiled a complete version of the Quran shortly after Muhammad's death. The order of this text differed from that gathered later during Uthman's era in that this version had been collected in chronological order. Despite this, he made no objection against the standardized Quran and accepted the Quran in circulation. Other personal copies of the Quran might have existed including Ibn Mas'ud's and Ubay ibn Ka'b's codex, none of which exist today.[11][38][55]
 
-According to Raymond, hackers from the programmer subculture usually work openly and use their real name, while computer security hackers prefer secretive groups and identity-concealing aliases.[24] Also, their activities in practice are largely distinct. The former focus on creating new and improving existing infrastructure (especially the software environment they work with), while the latter primarily and strongly emphasize the general act of circumvention of security measures, with the effective use of the knowledge (which can be to report and help fixing the security bugs, or exploitation reasons) being only rather secondary. The most visible difference in these views was in the design of the MIT hackers' Incompatible Timesharing System, which deliberately did not have any security measures.
+The Quran most likely existed in scattered written form during Muhammad's lifetime. Several sources indicate that during Muhammad's lifetime a large number of his companions had memorized the revelations. Early commentaries and Islamic historical sources support the above-mentioned understanding of the Quran's early development.[24] University of Chicago professor Fred Donner states that:[56]
 
-There are some subtle overlaps, however, since basic knowledge about computer security is also common within the programmer subculture of hackers. For example, Ken Thompson noted during his 1983 Turing Award lecture that it is possible to add code to the UNIX "login" command that would accept either the intended encrypted password or a particular known password, allowing a backdoor into the system with the latter password. He named his invention the "Trojan horse". Furthermore, Thompson argued, the C compiler itself could be modified to automatically generate the rogue code, to make detecting the modification even harder. Because the compiler is itself a program generated from a compiler, the Trojan horse could also be automatically installed in a new compiler program, without any detectable modification to the source of the new compiler. However, Thompson disassociated himself strictly from the computer security hackers: "I would like to criticize the press in its handling of the 'hackers,' the 414 gang, the Dalton gang, etc. The acts performed by these kids are vandalism at best and probably trespass and theft at worst. ... I have watched kids testifying before Congress. It is clear that they are completely unaware of the seriousness of their acts."[25]
+[T]here was a very early attempt to establish a uniform consonantal text of the Qurʾān from what was probably a wider and more varied group of related texts in early transmission.… After the creation of this standardized canonical text, earlier authoritative texts were suppressed, and all extant manuscripts—despite their numerous variants—seem to date to a time after this standard consonantal text was established.
 
-The programmer subculture of hackers sees secondary circumvention of security mechanisms as legitimate if it is done to get practical barriers out of the way for doing actual work. In special forms, that can even be an expression of playful cleverness.[26] However, the systematic and primary engagement in such activities is not one of the actual interests of the programmer subculture of hackers and it does not have significance in its actual activities, either.[24] A further difference is that, historically, members of the programmer subculture of hackers were working at academic institutions and used the computing environment there. In contrast, the prototypical computer security hacker had access exclusively to a home computer and a modem. However, since the mid-1990s, with home computers that could run Unix-like operating systems and with inexpensive internet home access being available for the first time, many people from outside of the academic world started to take part in the programmer subculture of hacking.
+Although most variant readings of the text of the Quran have ceased to be transmitted, some still are.[57][58] There has been no critical text produced on which a scholarly reconstruction of the Quranic text could be based.[ix] Historically, controversy over the Quran's content has rarely become an issue, although debates continue on the subject.[60][x]
 
-Since the mid-1980s, there are some overlaps in ideas and members with the computer security hacking community. The most prominent case is Robert T. Morris, who was a user of MIT-AI, yet wrote the Morris worm. The Jargon File hence calls him "a true hacker who blundered".[27] Nevertheless, members of the programmer subculture have a tendency to look down on and disassociate from these overlaps. They commonly refer disparagingly to people in the computer security subculture as crackers and refuse to accept any definition of hacker that encompasses such activities. The computer security hacking subculture, on the other hand, tends not to distinguish between the two subcultures as harshly, acknowledging that they have much in common including many members, political and social goals, and a love of learning about technology. They restrict the use of the term cracker to their categories of script kiddies and black hat hackers instead.
 
-All three subcultures have relations to hardware modifications. In the early days of network hacking, phreaks were building blue boxes and various variants. The programmer subculture of hackers has stories about several hardware hacks in its folklore, such as a mysterious "magic" switch attached to a PDP-10 computer in MIT's AI lab that, when switched off, crashed the computer.[28] The early hobbyist hackers built their home computers themselves from construction kits. However, all these activities have died out during the 1980s when the phone network switched to digitally controlled switchboards, causing network hacking to shift to dialing remote computers with modems when pre-assembled inexpensive home computers were available and when academic institutions started to give individual mass-produced workstation computers to scientists instead of using a central timesharing system. The only kind of widespread hardware modification nowadays is case modding.
+The right page of the Stanford '07 binary manuscript. The upper layer is verses 265-271 of the surah Bakara. The double-layer reveals the additions made on the first text of the Qur'an and the differences with today's Qur'an.
+In 1972, in a mosque in the city of Sana'a, Yemen, manuscripts were discovered that were later proved to be the most ancient Quranic text known to exist at the time. The Sana'a manuscripts contain palimpsests, a manuscript page from which the text has been washed off to make the parchment reusable again—a practice which was common in ancient times due to the scarcity of writing material. However, the faint washed-off underlying text (scriptio inferior) is still barely visible and believed to be "pre-Uthmanic" Quranic content, while the text written on top (scriptio superior) is believed to belong to Uthmanic times.[61] Studies using radiocarbon dating indicate that the parchments are dated to the period before 671 CE with a 99 percent probability.[62][63] The German scholar Gerd R. Puin has been investigating these Quran fragments for years. His research team made 35,000 microfilm photographs of the manuscripts, which he dated to the early part of the 8th century. Puin has not published the entirety of his work, but noted unconventional verse orderings, minor textual variations, and rare styles of orthography. He also suggested that some of the parchments were palimpsests which had been reused. Puin believed that this implied an evolving text as opposed to a fixed one.[64]
 
-An encounter of the programmer and the computer security hacker subculture occurred at the end of the 1980s, when a group of computer security hackers, sympathizing with the Chaos Computer Club (which disclaimed any knowledge in these activities), broke into computers of American military organizations and academic institutions. They sold data from these machines to the Soviet secret service, one of them in order to fund his drug addiction. The case was solved when Clifford Stoll, a scientist working as a system administrator, found ways to log the attacks and to trace them back (with the help of many others). 23, a German film adaption with fictional elements, shows the events from the attackers' perspective. Stoll described the case in his book The Cuckoo's Egg and in the TV documentary The KGB, the Computer, and Me from the other perspective. According to Eric S. Raymond, it "nicely illustrates the difference between 'hacker' and 'cracker'. Stoll's portrait of himself, his lady Martha, and his friends at Berkeley and on the Internet paints a marvelously vivid picture of how hackers and the people around them like to live and how they think."[29]
+In 2015, fragments of a very early Quran, dating back to 1370 years earlier, were discovered in the library of the University of Birmingham, England. According to the tests carried out by the Oxford University Radiocarbon Accelerator Unit, "with a probability of more than 95%, the parchment was from between 568 and 645". The manuscript is written in Hijazi script, an early form of written Arabic.[65] This is possibly the earliest extant exemplar of the Quran, but as the tests allow a range of possible dates, it cannot be said with certainty which of the existing versions is the oldest.[65] Saudi scholar Saud al-Sarhan has expressed doubt over the age of the fragments as they contain dots and chapter separators that are believed to have originated later.[66] However Joseph E. B. Lumbard of Brandeis University has written in the Huffington Post in support of the dates proposed by the Birmingham scholars. Lumbard notes that the discovery of a Quranic text that may be confirmed by radiocarbon dating as having been written in the first decades of the Islamic era, while presenting a text substantially in conformity with that traditionally accepted, reinforces a growing academic consensus that many Western skeptical and 'revisionist' theories of Quranic origins are now untenable in the light of empirical findings—whereas, on the other hand, counterpart accounts of Quranic origins within classical Islamic traditions stand up well in the light of ongoing scientific discoveries.[67]
+
+Significance in Islam
+Part of a series on
+Islam
+IslamSymbol1.svg
+Beliefs
+Practices
+TextsFoundations
+QuranSunnah (Hadith, Sirah)
+Tafsir (exegesis)Aqidah (creed)
+Fiqh (jurisprudence)Sharia (law)
+History
+Culture and society
+Related topics
+Allah-green.svg Islam portal
+vte
+Muslims believe the Quran to be God's final revelation to humanity, a work of divine guidance revealed to Muhammad through the angel Gabriel.[18][68]
+
+Revered by pious Muslims as "the holy of holies,"[69] whose sound moves some to "tears and ecstasy",[70] it is the physical symbol of the faith, the text often used as a charm on occasions of birth, death, marriage.[citation needed] Consequently,
+
+It must never rest beneath other books, but always on top of them, one must never drink or smoke when it is being read aloud, and it must be listened to in silence. It is a talisman against disease and disaster.[69][71]
+
+Traditionally great emphasis was put on children memorizing the 6,200+ verses of the Quran, those succeeding being honored with the title Hafiz. "Millions and millions" of Muslims "refer to the Koran daily to explain their actions and to justify their aspirations,"[xi] and in recent years many consider it the source of scientific knowledge.[73][74]
+
+Revelation in Islamic and Quranic contexts means the act of God addressing an individual, conveying a message for a greater number of recipients. The process by which the divine message comes to the heart of a messenger of God is tanzil ('to send down') or nuzūl ('to come down'). As the Quran says, "With the truth we (God) have sent it down and with the truth it has come down."[75]
+
+The Quran frequently asserts in its text that it is divinely ordained. Some verses in the Quran seem to imply that even those who do not speak Arabic would understand the Quran if it were recited to them.[76] The Quran refers to a written pre-text, "the preserved tablet," that records God's speech even before it was sent down.[77][78]
+
+Muslims believe that the present wording of the Quran corresponds to that revealed to Muhammad, and according to their interpretation of Quran 15:9, it is protected from corruption ("Indeed, it is We who sent down the Quran and indeed, We will be its guardian.").[79] Muslims consider the Quran to be a guide, a sign of the prophethood of Muhammad and the truth of the religion.
+
+The Shīa believe that the Quran was gathered and compiled by Muhammad during his lifetime, rather than being compiled by Uthman ibn Affan. There are other differences in the way Shias interpret the text.[80] Muslims do not agree over whether the Quran was created by God or is eternal and "uncreated." Sunnis (who make up about 85–90% of Muslims) hold that the Quran is uncreated—a doctrine that has been unchallenged among them for many centuries. Shia Twelvers and Zaydi, and the Kharijites—believe the Quran was created.[81] Sufi philosophers view the question as artificial or wrongly framed.[82][need quotation to verify]
+
+Inimitability
+Main article: I'jaz
+Inimitability of the Quran (or "I'jaz") is the belief that no human speech can match the Quran in its content and form. The Quran is considered an inimitable miracle by Muslims, effective until the Day of Resurrection—and, thereby, the central proof granted to Muhammad in authentication of his prophetic status. The concept of inimitability originates in the Quran where in five different verses opponents are challenged to produce something like the Quran: "If men and jinn banded together to produce the like of this Quran they would never produce its like not though they backed one another."[83] From the ninth century, numerous works appeared which studied the Quran and examined its style and content. Medieval Muslim scholars including al-Jurjani (d. 1078) and al-Baqillani (d. 1013) have written treatises on the subject, discussed its various aspects, and used linguistic approaches to study the Quran. Others argue that the Quran contains noble ideas, has inner meanings, maintained its freshness through the ages and has caused great transformations at the individual level and in history. Some scholars state that the Quran contains scientific information that agrees with modern science. The doctrine of the miraculousness of the Quran is further emphasized by Muhammad's illiteracy since the unlettered prophet could not have been suspected of composing the Quran.[55][84]
+
+In worship
+See also: Salah
+
+While standing in prayers, worshipers recite the first chapter of the Quran, al-Fatiha, followed by any other section.
+The first surah of the Quran is repeated in daily prayers and on other occasions. This surah, which consists of seven verses, is the most often recited surah of the Quran:[11]
+
+بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+مَٰلِكِ يَوْمِ ٱلدِّينِ
+إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
+ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
+صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ لا٥ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+
+In the Name of Allah the Entirely Merciful, the Especially Merciful.
+[All] praise is [due] to Allah, Lord of the worlds —
+The Entirely Merciful, the Especially Merciful,
+Sovereign of the Day of Recompense.
+It is You we worship and You we ask for help
+Guide us to the straight path—
+The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.
+
+—Quran 1:1–7	—Sahih International English translation
+Other sections of the Quran of choice are also read in daily prayers.
+
+Respect for the written text of the Quran is an important element of religious faith by many Muslims, and the Quran is treated with reverence. Based on tradition and a literal interpretation of Quran 56:79 ("none shall touch but those who are clean"), some Muslims believe that they must perform a ritual cleansing with water (wudu or ghusl) before touching a copy of the Quran, although this view is not universal.[11] Worn-out copies of the Quran are wrapped in a cloth and stored indefinitely in a safe place, buried in a mosque or a Muslim cemetery, or burned and the ashes buried or scattered over water.[85]
+
+In Islam, most intellectual disciplines, including Islamic theology, philosophy, mysticism and jurisprudence, have been concerned with the Quran or have their foundation in its teachings.[11] Muslims believe that the preaching or reading of the Quran is rewarded with divine rewards variously called ajr, thawab, or hasanat.[86]
+
+In Islamic art
+The Quran also inspired Islamic arts and specifically the so-called Quranic arts of calligraphy and illumination.[11] The Quran is never decorated with figurative images, but many Qurans have been highly decorated with decorative patterns in the margins of the page, or between the lines or at the start of suras. Islamic verses appear in many other media, on buildings and on objects of all sizes, such as mosque lamps, metal work, pottery and single pages of calligraphy for muraqqas or albums.
